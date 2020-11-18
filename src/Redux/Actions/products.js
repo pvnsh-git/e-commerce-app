@@ -10,6 +10,7 @@ export const fetchProducts = () => {
                 data
             })
         })
+        .catch(err=>{console.log(err)})
     }
 }
 export const addToCart = (data) => {
