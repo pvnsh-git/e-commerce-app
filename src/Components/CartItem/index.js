@@ -17,7 +17,7 @@ function CartItem(props) {
     return (
         <tr className="cartItems">
             <td>
-            <span onClick={handleDelete}><i className="fa fa-trash" ></i></span>
+            <span onClick={handleDelete} className="deleteIcon"><i className="fa fa-trash" ></i></span>
             </td>
            <td><img src={hoody} alt="hoody"  height='50' width='50' /></td> 
     <td>{product_name}</td> 
