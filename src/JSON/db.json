@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "product_id": 101,
+            "product_name":"Happy Ninja",
+            "image":"../../assets/hoody.jpg",
+            "price":37,
+            "star_rating":4
+        },
+        {
+            "product_id": 102,
+            "product_name":"Happy Ninja Hoodie",
+            "image":"../../assets/keyWayDownJacket.jpg",
+            "price":32,
+            "star_rating":3.5
+        },
+        {
+            "product_id": 103,
+            "product_name":"Leather Jacket",
+            "image":"../../assets/MenWinterCoatLeatherJacket.jpg",
+            "price":29,
+            "star_rating":4.5
+        },
+        {
+            "product_id": 104,
+            "product_name":"Reflective Jacket ",
+            "image":"../../assets/NemenGuardReflectiveJacketInGrey.jpg",
+            "price":39,
+            "star_rating":3
+        },
+        {
+            "product_id": 105,
+            "product_name":"WinterCoat",
+            "image":"../../assets/NewMenWinterCoatCottonSuedeStitching.jpg",
+            "price":35,
+            "star_rating":2
+        },
+        {
+            "product_id": 106,
+            "product_name":"Happy Ninja",
+            "image":"../../assets/HoodedDownJacket.jpg",
+            "price":37,
+            "star_rating":4
+        },
+        {
+            "product_id": 107,
+            "product_name":"Happy Ninja Hoodie",
+            "image":"../../assets/keyWayDownJacket.jpg",
+            "price":32,
+            "star_rating":3.5
+        },
+        {
+            "product_id": 108,
+            "product_name":"Leather Jacket",
+            "image":"../../assets/MenWinterCoatLeatherJacket.jpg",
+            "price":29,
+            "star_rating":4.5
+        },
+        {
+            "product_id": 109,
+            "product_name":"Reflective Jacket ",
+            "image":"../../assets/NemenGuardReflectiveJacketInGrey.jpg",
+            "price":39,
+            "star_rating":3
+        },
+        {
+            "product_id": 110,
+            "product_name":"WinterCoat",
+            "image":"../../assets/NewMenWinterCoatCottonSuedeStitching.jpg",
+            "price":35,
+            "star_rating":2
+        },
+        {
+            "product_id": 111,
+            "product_name":"Happy Ninja",
+            "image":"../../assets/HoodedDownJacket.jpg",
+            "price":37,
+            "star_rating":4
+        },
+        {
+            "product_id": 112,
+            "product_name":"Happy Ninja Hoodie",
+            "image":"../../assets/keyWayDownJacket.jpg",
+            "price":32,
+            "star_rating":3.5
+        },
+        {
+            "product_id": 113,
+            "product_name":"Leather Jacket",
+            "image":"../../assets/MenWinterCoatLeatherJacket.jpg",
+            "price":29,
+            "star_rating":4.5
+        },
+        {
+            "product_id": 114,
+            "product_name":"Reflective Jacket ",
+            "image":"../../assets/NemenGuardReflectiveJacketInGrey.jpg",
+            "price":39,
+            "star_rating":3
+        },
+        {
+            "product_id": 115,
+            "product_name":"WinterCoat",
+            "image":"../../assets/NewMenWinterCoatCottonSuedeStitching.jpg",
+            "price":35,
+            "star_rating":2
+        },
+        {
+            "product_id": 116,
+            "product_name":"Happy Ninja",
+            "image":"../../assets/HoodedDownJacket.jpg",
+            "price":37,
+            "star_rating":4
+        },
+        {
+            "product_id": 117,
+            "product_name":"Happy Ninja Hoodie",
+            "image":"../../assets/keyWayDownJacket.jpg",
+            "price":32,
+            "star_rating":3.5
+        },
+        {
+            "product_id": 118,
+            "product_name":"Leather Jacket",
+            "image":"../../assets/MenWinterCoatLeatherJacket.jpg",
+            "price":29,
+            "star_rating":4.5
+        },
+        {
+            "product_id": 119,
+            "product_name":"Reflective Jacket ",
+            "image":"../../assets/NemenGuardReflectiveJacketInGrey.jpg",
+            "price":39,
+            "star_rating":3
+        },
+        {
+            "product_id": 120,
+            "product_name":"WinterCoat",
+            "image":"../../assets/NewMenWinterCoatCottonSuedeStitching.jpg",
+            "price":35,
+            "star_rating":2
+        }
+    ]
+}
